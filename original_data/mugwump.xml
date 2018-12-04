@@ -1,0 +1,3990 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+<header>
+<identifier>mugwump_1031</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1950- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1031</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1031/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1064</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1949- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1064</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1064/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1097</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1948- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1097</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1097/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_112</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1927- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-02-28</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A112</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A112/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1132</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1947- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1132</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1132/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1165</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1946- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1165</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1165/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1198</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1947- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1198</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1198/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1231</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1951- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1231</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1231/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1264</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1929- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1264</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1264/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1341</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1928- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1341</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1341/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1404</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1927- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1404</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1404/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1451</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1926- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1451</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1451/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1488</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1925- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1488</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1488/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_149</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1926- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-01-28</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A149</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A149/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1521</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1924- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1521</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1521/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1558</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1923- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1558</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1558/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1595</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1922- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol6-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1595</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1595/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1624</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1938- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss9</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1624</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1624/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1703</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1937- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1703</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1703/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1752</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1936- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1752</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1752/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1797</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1935- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1797</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1797/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1840</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1934- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1840</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1840/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_186</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1920- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1920-12-28</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A186</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A186/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1885</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1933- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1885</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1885/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1934</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1932- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1934</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1934/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1983</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1931- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1983</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1983/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_1</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1929- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-05-28</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A1/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2032</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1930- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1926-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol7-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2032</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2032/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2077</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1947- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss9</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2077</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2077/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2136</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1946- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2136</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2136/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2173</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1945- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2173</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2173/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2212</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1944- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2212</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2212/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_223</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1922- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1920-11-25</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A223</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A223/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2249</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1943- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2249</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2249/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2286</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1942- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2286</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2286/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2327</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1941- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2327</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2327/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2372</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1940- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2372</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2372/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2413</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1939- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1927-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol8-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2413</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2413/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2454</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1955- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-06</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2454</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2454/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2515</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1954- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2515</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2515/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2556</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1953- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2556</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2556/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2597</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1952- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2597</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2597/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_260</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1921- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1920-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A260</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A260/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2638</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1951- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2638</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2638/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2679</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1950- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2679</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2679/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2732</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1949- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2732</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2732/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2785</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1948- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1928-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol9-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2785</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2785/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2838</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1963- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2838</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2838/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2879</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1962- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2879</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2879/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2918</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1961- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2918</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2918/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_2959</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1960- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2959</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A2959/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_297</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1932- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1922-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol2-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A297</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A297/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3000</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1959- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3000</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3000/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3041</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1958- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3041</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3041/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3086</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1957- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3086</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3086/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3139</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1956- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1929-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol10-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3139</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3139/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3192</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1964- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3192</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3192/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3245</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1965- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3245</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3245/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3298</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1971- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3298</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3298/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3343</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1970- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3343</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3343/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_334</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1933- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1922-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol2-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A334</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A334/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3380</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1969- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3380</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3380/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3417</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1968- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3417</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3417/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3454</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1967- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3454</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3454/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3491</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1966- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1930-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol11-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3491</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3491/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3532</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1979- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1932-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3532</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3532/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3581</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1978- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1932-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3581</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3581/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3618</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1977- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1932-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3618</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3618/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3651</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1976- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1932-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3651</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3651/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3684</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1975- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1932-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3684</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3684/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3717</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1974- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3717</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3717/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_371</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1925- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol2-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A371</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A371/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3750</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1973- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3750</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3750/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_3783</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1972- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1931-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol12-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3783</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A3783/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_38</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1923- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-04-28</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A38</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A38/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_408</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1924- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-12-15</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol2-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A408</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A408/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_445</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1930- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-10-15</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol2-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A445</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A445/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_482</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1941- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A482</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A482/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_511</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1936- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A511</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A511/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_540</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1940- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A540</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A540/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_569</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1938- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A569</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A569/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_598</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1939- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A598</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A598/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_627</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1931- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1922-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A627</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A627/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_656</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1934- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1922-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A656</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A656/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_689</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1935- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1922-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol3-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A689</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A689/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_722</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1950- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-05</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A722</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A722/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_75</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1928- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1921-03-28</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol1-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>Public domain</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A75</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A75/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_765</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1944- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-04</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss7</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A765</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A765/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_802</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1949- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-03</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss6</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A802</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A802/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_837</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1945- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-02</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss5</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A837</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A837/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_866</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1948- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-01</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss4</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A866</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A866/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_897</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1937- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-12</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss3</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A897</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A897/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_930</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1942- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-11</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss2</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A930</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A930/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_963</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1943- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1923-10</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol4-iss1</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A963</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A963/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>mugwump_996</identifier>
+<datestamp>2018-11-28T19:02:36Z</datestamp>
+<setSpec>mugwump</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mugwump</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <subject>
+    <topic>American wit and humor -- Periodicals.</topic>
+  </subject>
+  <note>1951- C. G. Maynatt and others. </note>
+  <note>University of Tennessee (Knoxville campus) </note>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1925-06</dateOther>
+  </originInfo>
+  <identifier type="local">mugwump_vol5-iss8</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">Eng</languageTerm>
+  </language>
+  <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A996</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mugwump%3A996/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record>
+</repository>
