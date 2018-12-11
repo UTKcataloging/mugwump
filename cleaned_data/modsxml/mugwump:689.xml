@@ -76,6 +76,7 @@
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <classification authority="lcc">LH1.T2 M8</classification>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>

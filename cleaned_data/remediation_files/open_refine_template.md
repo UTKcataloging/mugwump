@@ -41,6 +41,7 @@
 <typeOfResource>still image</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Mugwump</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<classification authority="lcc">LH1.T2 M8</classification>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
