@@ -51,7 +51,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
       <topic>College student newspapers and periodicals</topic>
    </subject>
-   <subject authority="lcsh" valueURI="Women college students">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147501">
       <topic>Women college students</topic>
    </subject>
    <subject authority="lcsh"

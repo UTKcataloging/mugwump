@@ -44,7 +44,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
       <topic>College student newspapers and periodicals</topic>
    </subject>
-   <subject authority="lcsh" valueURI="Rural population">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85115926">
       <topic>Rural population</topic>
    </subject>
    <subject authority="lcsh"

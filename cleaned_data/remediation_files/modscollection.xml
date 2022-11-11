@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
 <identifier type="local">mugwump_vol5-num7</identifier>
 <identifier type="pid">mugwump:1031</identifier>
 <titleInfo><title>Mugwump, volume 5, number 7</title></titleInfo>
@@ -34,8 +35,7 @@
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num6</identifier>
 <identifier type="pid">mugwump:1064</identifier>
 <titleInfo><title>Mugwump, volume 5, number 6</title></titleInfo>
@@ -70,8 +70,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num5</identifier>
 <identifier type="pid">mugwump:1097</identifier>
 <titleInfo><title>Mugwump, volume 5, number 5</title></titleInfo>
@@ -106,8 +105,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num5</identifier>
 <identifier type="pid">mugwump:112</identifier>
 <titleInfo><title>Mugwump, volume 1, number 5</title></titleInfo>
@@ -142,8 +140,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num4</identifier>
 <identifier type="pid">mugwump:1132</identifier>
 <titleInfo><title>Mugwump, volume 5, number 4</title></titleInfo>
@@ -178,8 +175,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num3</identifier>
 <identifier type="pid">mugwump:1165</identifier>
 <titleInfo><title>Mugwump, volume 5, number 3</title></titleInfo>
@@ -199,7 +195,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Dec 1924</dateIssued><dateIssued encoding="edtf">1924-12</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Football"><topic>Football</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -214,8 +210,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num2</identifier>
 <identifier type="pid">mugwump:1198</identifier>
 <titleInfo><title>Mugwump, volume 5, number 2</title></titleInfo>
@@ -250,8 +245,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num1</identifier>
 <identifier type="pid">mugwump:1231</identifier>
 <titleInfo><title>Mugwump, volume 5, number 1</title></titleInfo>
@@ -286,8 +280,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num8</identifier>
 <identifier type="pid">mugwump:1264</identifier>
 <titleInfo><title>Mugwump, volume 6, number 8</title></titleInfo>
@@ -322,8 +315,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num7</identifier>
 <identifier type="pid">mugwump:1341</identifier>
 <titleInfo><title>Mugwump, volume 6, number 7</title></titleInfo>
@@ -358,8 +350,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num6</identifier>
 <identifier type="pid">mugwump:1404</identifier>
 <titleInfo><title>Mugwump, volume 6, number 6</title></titleInfo>
@@ -394,8 +385,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num5</identifier>
 <identifier type="pid">mugwump:1451</identifier>
 <titleInfo><title>Mugwump, volume 6, number 5</title></titleInfo>
@@ -430,8 +420,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num4</identifier>
 <identifier type="pid">mugwump:1488</identifier>
 <titleInfo><title>Mugwump, volume 6, number 4</title></titleInfo>
@@ -466,8 +455,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num4</identifier>
 <identifier type="pid">mugwump:149</identifier>
 <titleInfo><title>Mugwump, volume 1, number 4</title></titleInfo>
@@ -502,8 +490,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num3</identifier>
 <identifier type="pid">mugwump:1521</identifier>
 <titleInfo><title>Mugwump, volume 6, number 3</title></titleInfo>
@@ -538,8 +525,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num2</identifier>
 <identifier type="pid">mugwump:1558</identifier>
 <titleInfo><title>Mugwump, volume 6, number 2</title></titleInfo>
@@ -559,7 +545,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Nov 1925</dateIssued><dateIssued encoding="edtf">1925-11</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="College students--Alcohol use"><topic>College students--Alcohol use</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008007970"><topic>College students--Alcohol use</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -574,8 +560,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol6-num1</identifier>
 <identifier type="pid">mugwump:1595</identifier>
 <titleInfo><title>Mugwump, volume 6, number 1</title></titleInfo>
@@ -595,7 +580,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Oct 1925</dateIssued><dateIssued encoding="edtf">1925-10</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="College freshmen"><topic>College freshmen</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028300"><topic>College freshmen</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -610,8 +595,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num9</identifier>
 <identifier type="pid">mugwump:1624</identifier>
 <titleInfo><title>Mugwump, volume 7, number 9</title></titleInfo>
@@ -631,7 +615,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>May 1927</dateIssued><dateIssued encoding="edtf">1927-05</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="College students--Alcohol use"><topic>College students--Alcohol use</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008007970"><topic>College students--Alcohol use</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -646,8 +630,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num8</identifier>
 <identifier type="pid">mugwump:1703</identifier>
 <titleInfo><title>Mugwump, volume 7, number 8</title></titleInfo>
@@ -667,7 +650,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Apr 25, 1927</dateIssued><dateIssued encoding="edtf">1927-04-25</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Military education"><topic>Military education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085189"><topic>Military education</topic></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80013543"><name><namePart>United States. Army. Reserve Officers' Training Corps</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -682,8 +665,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num7</identifier>
 <identifier type="pid">mugwump:1752</identifier>
 <titleInfo><title>Mugwump, volume 7, number 7</title></titleInfo>
@@ -703,7 +685,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Apr 1927</dateIssued><dateIssued encoding="edtf">1927-04</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Rural population"><topic>Rural population</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85115926"><topic>Rural population</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -718,8 +700,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num6</identifier>
 <identifier type="pid">mugwump:1797</identifier>
 <titleInfo><title>Mugwump, volume 7, number 6</title></titleInfo>
@@ -739,7 +720,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Feb 1927</dateIssued><dateIssued encoding="edtf">1927-02</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Courtship"><topic>Courtship</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033596"><topic>Courtship</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -754,8 +735,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num5</identifier>
 <identifier type="pid">mugwump:1840</identifier>
 <titleInfo><title>Mugwump, volume 7, number 5</title></titleInfo>
@@ -775,7 +755,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Jan 1927</dateIssued><dateIssued encoding="edtf">1927-01</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Home economics"><topic>Home economics</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85061673"><topic>Home economics</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -790,8 +770,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num3</identifier>
 <identifier type="pid">mugwump:186</identifier>
 <titleInfo><title>Mugwump, volume 1, number 3</title></titleInfo>
@@ -826,8 +805,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num4</identifier>
 <identifier type="pid">mugwump:1885</identifier>
 <titleInfo><title>Mugwump, volume 7, number 4</title></titleInfo>
@@ -862,8 +840,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num3</identifier>
 <identifier type="pid">mugwump:1934</identifier>
 <titleInfo><title>Mugwump, volume 7, number 3</title></titleInfo>
@@ -898,8 +875,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num2</identifier>
 <identifier type="pid">mugwump:1983</identifier>
 <titleInfo><title>Mugwump, volume 7, number 2</title></titleInfo>
@@ -934,8 +910,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num8</identifier>
 <identifier type="pid">mugwump:1</identifier>
 <titleInfo><title>Mugwump, volume 1, number 8</title></titleInfo>
@@ -970,8 +945,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol7-num1</identifier>
 <identifier type="pid">mugwump:2032</identifier>
 <titleInfo><title>Mugwump, volume 7, number 1</title></titleInfo>
@@ -991,7 +965,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Oct 1926</dateIssued><dateIssued encoding="edtf">1926-10</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Discovery and exploration"><topic>Discovery and exploration</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99002238"><topic>Discovery and exploration</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1006,8 +980,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num9</identifier>
 <identifier type="pid">mugwump:2077</identifier>
 <titleInfo><title>Mugwump, volume 8, number 9</title></titleInfo>
@@ -1042,8 +1015,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num8</identifier>
 <identifier type="pid">mugwump:2136</identifier>
 <titleInfo><title>Mugwump, volume 8, number 8</title></titleInfo>
@@ -1078,8 +1050,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num7</identifier>
 <identifier type="pid">mugwump:2173</identifier>
 <titleInfo><title>Mugwump, volume 8, number 7</title></titleInfo>
@@ -1099,7 +1070,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Mar 1928</dateIssued><dateIssued encoding="edtf">1928-03</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Travel"><topic>Travel</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85137149"><topic>Travel</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1114,8 +1085,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num6</identifier>
 <identifier type="pid">mugwump:2212</identifier>
 <titleInfo><title>Mugwump, volume 8, number 6</title></titleInfo>
@@ -1150,8 +1120,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num2</identifier>
 <identifier type="pid">mugwump:223</identifier>
 <titleInfo><title>Mugwump, volume 1, number 2</title></titleInfo>
@@ -1171,7 +1140,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Nov 25, 1920</dateIssued><dateIssued encoding="edtf">1920-11-25</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Football"><topic>Football</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1186,8 +1155,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num5</identifier>
 <identifier type="pid">mugwump:2249</identifier>
 <titleInfo><title>Mugwump, volume 8, number 5</title></titleInfo>
@@ -1207,7 +1175,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Jan 1928</dateIssued><dateIssued encoding="edtf">1928-01</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Errors"><topic>Errors</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85044727"><topic>Errors</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1222,8 +1190,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num4</identifier>
 <identifier type="pid">mugwump:2286</identifier>
 <titleInfo><title>Mugwump, volume 8, number 4</title></titleInfo>
@@ -1258,8 +1225,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num3</identifier>
 <identifier type="pid">mugwump:2327</identifier>
 <titleInfo><title>Mugwump, volume 8, number 3</title></titleInfo>
@@ -1294,8 +1260,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num2</identifier>
 <identifier type="pid">mugwump:2372</identifier>
 <titleInfo><title>Mugwump, volume 8, number 2</title></titleInfo>
@@ -1330,8 +1295,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol8-num1</identifier>
 <identifier type="pid">mugwump:2413</identifier>
 <titleInfo><title>Mugwump, volume 8, number 1</title></titleInfo>
@@ -1366,8 +1330,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num8</identifier>
 <identifier type="pid">mugwump:2454</identifier>
 <titleInfo><title>Mugwump, volume 9, number 8</title></titleInfo>
@@ -1402,8 +1365,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num7</identifier>
 <identifier type="pid">mugwump:2515</identifier>
 <titleInfo><title>Mugwump, volume 9, number 7</title></titleInfo>
@@ -1438,8 +1400,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num6</identifier>
 <identifier type="pid">mugwump:2556</identifier>
 <titleInfo><title>Mugwump, volume 9, number 6</title></titleInfo>
@@ -1474,8 +1435,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num5</identifier>
 <identifier type="pid">mugwump:2597</identifier>
 <titleInfo><title>Mugwump, volume 9, number 5</title></titleInfo>
@@ -1510,8 +1470,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num1</identifier>
 <identifier type="pid">mugwump:260</identifier>
 <titleInfo><title>Mugwump, volume 1, number 1</title></titleInfo>
@@ -1531,7 +1490,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Nov 1920</dateIssued><dateIssued encoding="edtf">1920-11</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Indians in art"><topic>Indians in art</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh96011830"><topic>Indians in art</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1546,8 +1505,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num4</identifier>
 <identifier type="pid">mugwump:2638</identifier>
 <titleInfo><title>Mugwump, volume 9, number 4</title></titleInfo>
@@ -1582,8 +1540,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num3</identifier>
 <identifier type="pid">mugwump:2679</identifier>
 <titleInfo><title>Mugwump, volume 9, number 3</title></titleInfo>
@@ -1618,8 +1575,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num2</identifier>
 <identifier type="pid">mugwump:2732</identifier>
 <titleInfo><title>Mugwump, volume 9, number 2</title></titleInfo>
@@ -1654,8 +1610,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol9-num1</identifier>
 <identifier type="pid">mugwump:2785</identifier>
 <titleInfo><title>Mugwump, volume 9, number 1</title></titleInfo>
@@ -1690,8 +1645,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num8</identifier>
 <identifier type="pid">mugwump:2838</identifier>
 <titleInfo><title>Mugwump, volume 10, number 8</title></titleInfo>
@@ -1726,8 +1680,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num7</identifier>
 <identifier type="pid">mugwump:2879</identifier>
 <titleInfo><title>Mugwump, volume 10, number 7</title></titleInfo>
@@ -1762,8 +1715,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num6</identifier>
 <identifier type="pid">mugwump:2918</identifier>
 <titleInfo><title>Mugwump, volume 10, number 6</title></titleInfo>
@@ -1783,7 +1735,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Mar 1930</dateIssued><dateIssued encoding="edtf">1930-03</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Innocence (Psychology)"><topic>Innocence (Psychology)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85066522"><topic>Innocence (Psychology)</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1798,8 +1750,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num5</identifier>
 <identifier type="pid">mugwump:2959</identifier>
 <titleInfo><title>Mugwump, volume 10, number 5</title></titleInfo>
@@ -1834,8 +1785,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol2-num5</identifier>
 <identifier type="pid">mugwump:297</identifier>
 <titleInfo><title>Mugwump, volume 2, number 5</title></titleInfo>
@@ -1870,8 +1820,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num4</identifier>
 <identifier type="pid">mugwump:3000</identifier>
 <titleInfo><title>Mugwump, volume 10, number 4</title></titleInfo>
@@ -1906,8 +1855,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num3</identifier>
 <identifier type="pid">mugwump:3041</identifier>
 <titleInfo><title>Mugwump, volume 10, number 3</title></titleInfo>
@@ -1942,8 +1890,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num2</identifier>
 <identifier type="pid">mugwump:3086</identifier>
 <titleInfo><title>Mugwump, volume 10, number 2</title></titleInfo>
@@ -1963,7 +1910,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Nov 1929</dateIssued><dateIssued encoding="edtf">1929-11</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Football"><topic>Football</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -1978,8 +1925,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol10-num1</identifier>
 <identifier type="pid">mugwump:3139</identifier>
 <titleInfo><title>Mugwump, volume 10, number 1</title></titleInfo>
@@ -2014,8 +1960,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num1</identifier>
 <identifier type="pid">mugwump:3192</identifier>
 <titleInfo><title>Mugwump, volume 11, number 1</title></titleInfo>
@@ -2050,8 +1995,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num2</identifier>
 <identifier type="pid">mugwump:3245</identifier>
 <titleInfo><title>Mugwump, volume 11, number 2</title></titleInfo>
@@ -2071,7 +2015,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Nov 1930</dateIssued><dateIssued encoding="edtf">1930-11</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Football"><topic>Football</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -2086,8 +2030,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num8</identifier>
 <identifier type="pid">mugwump:3298</identifier>
 <titleInfo><title>Mugwump, volume 11, number 8</title></titleInfo>
@@ -2107,7 +2050,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>May 1931</dateIssued><dateIssued encoding="edtf">1931-05</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Greek letter societies"><topic>Greek letter societies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057168"><topic>Greek letter societies</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -2122,8 +2065,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num7</identifier>
 <identifier type="pid">mugwump:3343</identifier>
 <titleInfo><title>Mugwump, volume 11, number 7</title></titleInfo>
@@ -2158,8 +2100,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol2-num4</identifier>
 <identifier type="pid">mugwump:334</identifier>
 <titleInfo><title>Mugwump, volume 2, number 4</title></titleInfo>
@@ -2194,8 +2135,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num6</identifier>
 <identifier type="pid">mugwump:3380</identifier>
 <titleInfo><title>Mugwump, volume 11, number 6</title></titleInfo>
@@ -2230,8 +2170,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num5</identifier>
 <identifier type="pid">mugwump:3417</identifier>
 <titleInfo><title>Mugwump, volume 11, number 5</title></titleInfo>
@@ -2266,8 +2205,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num4</identifier>
 <identifier type="pid">mugwump:3454</identifier>
 <titleInfo><title>Mugwump, volume 11, number 4</title></titleInfo>
@@ -2302,8 +2240,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol11-num3</identifier>
 <identifier type="pid">mugwump:3491</identifier>
 <titleInfo><title>Mugwump, volume 11, number 3</title></titleInfo>
@@ -2323,7 +2260,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Dec 1930</dateIssued><dateIssued encoding="edtf">1930-12</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Christmas"><topic>Christmas</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85025303"><topic>Christmas</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -2338,8 +2275,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num8</identifier>
 <identifier type="pid">mugwump:3532</identifier>
 <titleInfo><title>Mugwump, volume 12, number 8</title></titleInfo>
@@ -2374,8 +2310,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num7</identifier>
 <identifier type="pid">mugwump:3581</identifier>
 <titleInfo><title>Mugwump, volume 12, number 7</title></titleInfo>
@@ -2410,8 +2345,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num6</identifier>
 <identifier type="pid">mugwump:3618</identifier>
 <titleInfo><title>Mugwump, volume 12, number 6</title></titleInfo>
@@ -2446,8 +2380,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num5</identifier>
 <identifier type="pid">mugwump:3651</identifier>
 <titleInfo><title>Mugwump, volume 12, number 5</title></titleInfo>
@@ -2482,8 +2415,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num4</identifier>
 <identifier type="pid">mugwump:3684</identifier>
 <titleInfo><title>Mugwump, volume 12, number 4</title></titleInfo>
@@ -2518,8 +2450,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num3</identifier>
 <identifier type="pid">mugwump:3717</identifier>
 <titleInfo><title>Mugwump, volume 12, number 3</title></titleInfo>
@@ -2554,8 +2485,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol2-num3</identifier>
 <identifier type="pid">mugwump:371</identifier>
 <titleInfo><title>Mugwump, volume 2, number 3</title></titleInfo>
@@ -2575,7 +2505,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Dec 1921</dateIssued><dateIssued encoding="edtf">1921-12</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="College teachers"><topic>College teachers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028378"><topic>College teachers</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -2590,8 +2520,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num2</identifier>
 <identifier type="pid">mugwump:3750</identifier>
 <titleInfo><title>Mugwump, volume 12, number 2</title></titleInfo>
@@ -2626,8 +2555,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol12-num1</identifier>
 <identifier type="pid">mugwump:3783</identifier>
 <titleInfo><title>Mugwump, volume 12, number 1</title></titleInfo>
@@ -2662,8 +2590,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num7</identifier>
 <identifier type="pid">mugwump:38</identifier>
 <titleInfo><title>Mugwump, volume 1, number 7</title></titleInfo>
@@ -2698,8 +2625,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol2-num2</identifier>
 <identifier type="pid">mugwump:408</identifier>
 <titleInfo><title>Mugwump, volume 2, number 2</title></titleInfo>
@@ -2734,8 +2660,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol2-num1</identifier>
 <identifier type="pid">mugwump:445</identifier>
 <titleInfo><title>Mugwump, volume 2, number 1</title></titleInfo>
@@ -2770,8 +2695,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num8</identifier>
 <identifier type="pid">mugwump:482</identifier>
 <titleInfo><title>Mugwump, volume 3, number 8</title></titleInfo>
@@ -2806,8 +2730,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num7</identifier>
 <identifier type="pid">mugwump:511</identifier>
 <titleInfo><title>Mugwump, volume 3, number 7</title></titleInfo>
@@ -2842,8 +2765,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num6</identifier>
 <identifier type="pid">mugwump:540</identifier>
 <titleInfo><title>Mugwump, volume 3, number 6</title></titleInfo>
@@ -2878,8 +2800,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num5</identifier>
 <identifier type="pid">mugwump:569</identifier>
 <titleInfo><title>Mugwump, volume 3, number 5</title></titleInfo>
@@ -2914,8 +2835,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num4</identifier>
 <identifier type="pid">mugwump:598</identifier>
 <titleInfo><title>Mugwump, volume 3, number 4</title></titleInfo>
@@ -2950,8 +2870,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num3</identifier>
 <identifier type="pid">mugwump:627</identifier>
 <titleInfo><title>Mugwump, volume 3, number 3</title></titleInfo>
@@ -2986,8 +2905,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num2</identifier>
 <identifier type="pid">mugwump:656</identifier>
 <titleInfo><title>Mugwump, volume 3, number 2</title></titleInfo>
@@ -3022,8 +2940,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol3-num1</identifier>
 <identifier type="pid">mugwump:689</identifier>
 <titleInfo><title>Mugwump, volume 3, number 1</title></titleInfo>
@@ -3043,7 +2960,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Oct 1922</dateIssued><dateIssued encoding="edtf">1922-10</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Courtship"><topic>Courtship</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033596"><topic>Courtship</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -3058,8 +2975,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num8</identifier>
 <identifier type="pid">mugwump:722</identifier>
 <titleInfo><title>Mugwump, volume 4, number 8</title></titleInfo>
@@ -3094,8 +3010,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol1-num6</identifier>
 <identifier type="pid">mugwump:75</identifier>
 <titleInfo><title>Mugwump, volume 1, number 6</title></titleInfo>
@@ -3130,8 +3045,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num7</identifier>
 <identifier type="pid">mugwump:765</identifier>
 <titleInfo><title>Mugwump, volume 4, number 7</title></titleInfo>
@@ -3166,8 +3080,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num6</identifier>
 <identifier type="pid">mugwump:802</identifier>
 <titleInfo><title>Mugwump, volume 4, number 6</title></titleInfo>
@@ -3187,7 +3100,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Mar 1924</dateIssued><dateIssued encoding="edtf">1924-03</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Indians in art"><topic>Indians in art</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh96011830"><topic>Indians in art</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -3202,8 +3115,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num5</identifier>
 <identifier type="pid">mugwump:837</identifier>
 <titleInfo><title>Mugwump, volume 4, number 5</title></titleInfo>
@@ -3238,8 +3150,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num4</identifier>
 <identifier type="pid">mugwump:866</identifier>
 <titleInfo><title>Mugwump, volume 4, number 4</title></titleInfo>
@@ -3274,8 +3185,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num3</identifier>
 <identifier type="pid">mugwump:897</identifier>
 <titleInfo><title>Mugwump, volume 4, number 3</title></titleInfo>
@@ -3310,8 +3220,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num2</identifier>
 <identifier type="pid">mugwump:930</identifier>
 <titleInfo><title>Mugwump, volume 4, number 2</title></titleInfo>
@@ -3346,8 +3255,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol4-num1</identifier>
 <identifier type="pid">mugwump:963</identifier>
 <titleInfo><title>Mugwump, volume 4, number 1</title></titleInfo>
@@ -3367,7 +3275,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateIssued>Oct 1923</dateIssued><dateIssued encoding="edtf">1923-10</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-<subject authority="lcsh" valueURI="Women college students"><topic>Women college students</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147501"><topic>Women college students</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
@@ -3382,8 +3290,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="local">mugwump_vol5-num8</identifier>
 <identifier type="pid">mugwump:996</identifier>
 <titleInfo><title>Mugwump, volume 5, number 8</title></titleInfo>

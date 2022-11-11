@@ -44,7 +44,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028351">
       <topic>College student newspapers and periodicals</topic>
    </subject>
-   <subject authority="lcsh" valueURI="Home economics">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85061673">
       <topic>Home economics</topic>
    </subject>
    <subject authority="lcsh"
