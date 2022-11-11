@@ -32,7 +32,7 @@
 <originInfo><dateIssued>{{cells['date_text'].value}}</dateIssued><dateIssued encoding="edtf">{{cells['date_edtf'].value}}</dateIssued><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm></place></originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114843"><topic>American wit and humor--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028351"><topic>College student newspapers and periodicals</topic></subject>
-{{if(isBlank(cells['subject2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject2'].value + '"><topic>' + cells['subject2'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject2_URI'].value + '"><topic>' + cells['subject2'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_name'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_URI'].value + '"><name><namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007101066"><topic>American poetry--20th century--Periodicals</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85079581"><topic>Magazine illustration--20th century</topic></subject>
